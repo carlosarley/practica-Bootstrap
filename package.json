@@ -1,0 +1,25 @@
+{
+  "name": "practica1",
+  "version": "1.0.0",
+  "description": "esta es la primera practica en bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosarley/practica-Bootstrap.git"
+  },
+  "keywords": [
+    "practica1"
+  ],
+  "author": "CarlosTamayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosarley/practica-Bootstrap/issues"
+  },
+  "homepage": "https://github.com/carlosarley/practica-Bootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3"
+  }
+}
